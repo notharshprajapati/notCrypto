@@ -1,0 +1,34 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon{
+    font-size: 3rem;
+    color:#FFD700;
+}
+
+.search-icon{
+    font-size: 3rem;
+    color:#FFD700;
+    position: absolute;
+    right: 4rem;
+    top:1.7rem;
+}
+
+.blue{
+    color:#00b5e2;
+}
+
+input[type="search"]
+{
+    height: 4rem;
+    width: 60rem;
+    font-size: 2rem;
+    box-sizing: border-box;
+    padding:1rem;
+    background-color:#f1f1f1;
+    outline-color:#00b5e2;
+    color:black;
+}
